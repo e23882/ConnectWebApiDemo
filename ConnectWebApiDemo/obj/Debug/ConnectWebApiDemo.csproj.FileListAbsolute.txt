@@ -1,0 +1,10 @@
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\ConnectWebApiDemo.exe.config
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\ConnectWebApiDemo.exe
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\ConnectWebApiDemo.pdb
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.csprojAssemblyReference.cache
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.csproj.CopyComplete
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.exe
+C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.pdb
