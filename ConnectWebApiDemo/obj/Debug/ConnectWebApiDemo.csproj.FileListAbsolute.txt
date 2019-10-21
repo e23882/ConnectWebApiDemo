@@ -8,3 +8,15 @@ C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\Conn
 C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.csproj.CopyComplete
 C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.exe
 C:\Users\LeoYang\source\repos\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.pdb
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\ConnectWebApiDemo.exe.config
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\ConnectWebApiDemo.exe
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\ConnectWebApiDemo.pdb
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.csprojAssemblyReference.cache
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.csproj.CoreCompileInputs.cache
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.csproj.CopyComplete
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.exe
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\obj\Debug\ConnectWebApiDemo.pdb
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\System.Net.Http.Formatting.dll
+D:\Backup\LeoYang\Desktop\ConnectWebApiDemo\ConnectWebApiDemo\bin\Debug\System.Net.Http.Formatting.xml

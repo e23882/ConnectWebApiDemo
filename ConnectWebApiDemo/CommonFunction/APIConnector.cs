@@ -16,7 +16,7 @@ namespace ConnectWebApiDemo.CommonFunction
             try
             {
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
-                request.Method = "GET";
+                request.Method = "Delete";
                 request.Accept = "application/json";
                 request.ContentType = "application/json";
                 if (headers != null)
